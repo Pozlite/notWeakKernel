@@ -1,9 +1,9 @@
 # notWeakKernel
-***Zen-linux kernel compiled for Intel Goldmont (optimization set to -03)***
+**Zen-linux kernel compiled for Intel Goldmont (optimization set to -03)**
 
-With love to UnderWeek.
+With love to <b>UnderWeek.</b>
 
 
-P.S: Goida goida zzzzz 67
+<b>P.S: Goida goida zzzzz 67</b>
 
 
