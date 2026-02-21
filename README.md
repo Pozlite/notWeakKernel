@@ -1,5 +1,5 @@
 # notWeakKernel
-**Zen-linux kernel compiled for Intel Goldmont (optimization set to -03)**
+**Lts .config for Intel Goldmont (optimization set to -02)**
 
 With love to <b>UnderWeek.</b>
 
