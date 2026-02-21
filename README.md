@@ -1,5 +1,5 @@
 # notWeakKernel
-Zen-linux kernel compiled for Intel Goldmont (optimization set to -03)
+***Zen-linux kernel compiled for Intel Goldmont (optimization set to -03)***
 
 With love to UnderWeek.
 
